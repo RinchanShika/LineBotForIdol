@@ -34,7 +34,7 @@ def callback():
 def handle_message(event):
     if event.message.text == '推しメン':
         index = random.randint(1, 494)
-        img_url = 'https://kurusubot.herokuapp.com/kurusuimg/kurusu (' + str(index) + ').jpg'
+        img_url = 'https://kurusubot.herokuapp.com/static/kurusuimg/kurusu (' + str(index) + ').jpg'
         print(img_url)
         line_bot_api.reply_message(
             event.reply_token,

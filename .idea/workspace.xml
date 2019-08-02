@@ -2,6 +2,500 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ff35f89-4bf2-4d6e-9c66-a645aa1505cc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (1).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (10).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (10).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (100).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (100).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (101).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (101).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (102).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (102).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (103).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (103).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (104).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (104).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (105).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (105).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (106).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (106).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (107).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (107).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (108).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (108).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (109).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (109).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (11).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (11).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (110).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (110).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (111).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (111).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (112).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (112).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (113).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (113).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (114).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (114).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (115).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (115).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (116).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (116).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (117).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (117).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (118).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (118).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (119).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (119).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (12).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (12).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (120).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (120).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (121).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (121).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (122).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (122).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (123).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (123).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (124).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (124).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (125).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (125).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (126).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (126).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (127).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (127).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (128).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (128).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (129).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (129).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (13).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (13).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (130).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (130).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (131).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (131).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (132).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (132).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (133).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (133).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (134).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (134).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (135).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (135).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (136).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (136).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (137).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (137).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (138).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (138).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (139).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (139).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (14).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (14).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (140).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (140).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (141).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (141).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (142).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (142).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (143).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (143).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (144).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (144).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (145).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (145).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (146).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (146).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (147).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (147).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (148).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (148).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (149).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (149).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (15).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (15).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (150).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (150).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (151).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (151).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (152).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (152).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (153).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (153).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (154).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (154).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (155).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (155).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (156).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (156).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (157).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (157).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (158).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (158).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (159).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (159).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (16).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (16).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (160).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (160).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (161).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (161).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (162).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (162).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (163).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (163).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (164).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (164).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (165).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (165).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (166).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (166).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (167).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (167).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (168).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (168).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (169).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (169).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (17).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (17).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (170).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (170).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (171).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (171).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (172).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (172).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (173).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (173).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (174).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (174).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (175).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (175).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (176).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (176).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (177).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (177).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (178).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (178).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (179).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (179).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (18).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (18).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (180).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (180).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (181).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (181).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (182).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (182).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (183).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (183).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (184).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (184).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (185).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (185).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (186).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (186).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (187).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (187).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (188).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (188).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (189).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (189).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (19).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (19).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (190).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (190).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (191).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (191).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (192).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (192).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (193).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (193).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (194).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (194).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (195).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (195).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (196).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (196).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (197).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (197).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (198).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (198).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (199).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (199).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (2).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (2).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (20).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (20).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (200).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (200).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (201).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (201).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (202).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (202).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (203).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (203).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (204).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (204).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (205).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (205).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (206).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (206).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (207).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (207).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (208).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (208).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (209).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (209).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (21).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (21).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (210).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (210).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (211).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (211).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (212).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (212).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (213).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (213).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (214).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (214).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (215).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (215).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (216).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (216).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (217).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (217).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (218).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (218).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (219).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (219).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (22).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (22).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (220).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (220).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (221).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (221).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (222).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (222).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (223).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (223).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (224).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (224).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (225).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (225).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (226).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (226).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (227).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (227).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (228).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (228).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (229).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (229).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (23).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (23).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (230).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (230).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (231).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (231).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (232).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (232).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (233).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (233).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (234).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (234).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (235).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (235).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (236).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (236).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (237).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (237).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (238).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (238).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (239).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (239).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (24).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (24).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (240).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (240).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (241).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (241).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (242).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (242).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (243).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (243).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (244).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (244).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (245).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (245).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (246).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (246).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (247).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (247).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (248).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (248).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (249).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (249).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (25).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (25).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (250).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (250).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (251).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (251).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (252).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (252).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (253).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (253).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (254).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (254).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (255).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (255).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (256).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (256).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (257).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (257).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (258).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (258).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (259).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (259).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (26).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (26).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (260).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (260).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (261).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (261).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (262).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (262).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (263).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (263).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (264).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (264).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (265).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (265).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (266).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (266).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (267).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (267).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (268).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (268).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (269).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (269).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (27).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (27).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (270).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (270).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (271).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (271).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (272).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (272).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (273).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (273).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (274).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (274).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (275).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (275).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (276).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (276).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (277).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (277).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (278).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (278).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (279).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (279).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (28).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (28).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (280).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (280).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (281).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (281).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (282).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (282).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (283).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (283).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (284).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (284).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (285).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (285).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (286).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (286).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (287).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (287).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (288).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (288).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (289).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (289).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (29).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (29).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (290).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (290).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (291).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (291).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (292).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (292).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (293).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (293).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (294).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (294).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (295).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (295).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (296).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (296).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (297).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (297).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (298).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (298).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (299).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (299).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (3).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (3).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (30).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (30).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (300).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (300).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (301).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (301).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (302).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (302).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (303).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (303).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (304).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (304).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (305).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (305).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (306).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (306).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (307).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (307).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (308).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (308).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (309).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (309).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (31).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (31).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (310).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (310).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (311).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (311).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (312).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (312).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (313).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (313).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (314).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (314).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (315).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (315).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (316).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (316).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (317).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (317).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (318).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (318).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (319).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (319).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (32).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (32).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (320).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (320).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (321).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (321).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (322).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (322).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (323).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (323).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (324).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (324).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (325).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (325).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (326).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (326).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (327).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (327).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (328).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (328).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (329).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (329).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (33).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (33).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (330).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (330).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (331).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (331).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (332).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (332).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (333).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (333).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (334).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (334).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (335).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (335).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (336).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (336).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (337).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (337).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (338).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (338).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (339).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (339).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (34).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (34).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (340).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (340).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (341).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (341).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (342).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (342).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (343).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (343).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (344).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (344).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (345).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (345).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (346).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (346).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (347).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (347).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (348).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (348).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (349).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (349).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (35).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (35).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (350).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (350).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (351).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (351).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (352).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (352).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (353).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (353).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (354).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (354).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (355).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (355).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (356).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (356).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (357).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (357).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (358).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (358).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (359).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (359).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (36).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (36).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (360).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (360).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (361).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (361).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (362).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (362).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (363).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (363).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (364).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (364).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (365).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (365).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (366).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (366).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (367).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (367).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (368).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (368).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (369).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (369).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (37).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (37).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (370).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (370).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (371).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (371).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (372).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (372).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (373).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (373).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (374).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (374).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (375).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (375).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (376).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (376).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (377).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (377).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (378).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (378).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (379).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (379).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (38).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (38).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (380).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (380).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (381).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (381).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (382).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (382).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (383).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (383).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (384).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (384).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (385).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (385).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (386).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (386).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (387).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (387).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (388).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (388).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (389).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (389).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (39).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (39).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (390).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (390).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (391).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (391).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (392).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (392).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (393).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (393).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (394).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (394).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (395).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (395).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (396).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (396).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (397).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (397).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (398).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (398).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (399).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (399).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (4).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (4).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (40).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (40).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (400).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (400).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (401).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (401).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (402).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (402).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (403).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (403).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (404).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (404).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (405).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (405).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (406).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (406).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (407).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (407).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (408).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (408).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (409).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (409).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (41).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (41).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (410).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (410).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (411).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (411).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (412).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (412).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (413).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (413).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (414).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (414).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (415).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (415).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (416).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (416).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (417).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (417).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (418).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (418).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (419).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (419).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (42).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (42).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (420).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (420).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (421).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (421).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (422).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (422).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (423).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (423).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (424).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (424).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (425).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (425).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (426).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (426).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (427).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (427).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (428).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (428).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (429).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (429).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (43).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (43).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (430).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (430).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (431).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (431).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (432).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (432).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (433).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (433).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (434).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (434).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (435).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (435).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (436).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (436).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (437).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (437).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (438).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (438).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (439).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (439).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (44).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (44).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (440).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (440).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (441).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (441).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (442).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (442).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (443).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (443).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (444).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (444).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (445).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (445).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (446).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (446).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (447).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (447).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (448).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (448).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (449).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (449).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (45).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (45).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (450).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (450).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (451).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (451).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (452).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (452).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (453).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (453).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (454).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (454).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (455).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (455).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (456).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (456).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (457).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (457).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (458).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (458).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (459).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (459).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (46).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (46).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (460).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (460).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (461).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (461).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (462).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (462).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (463).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (463).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (464).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (464).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (465).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (465).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (466).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (466).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (467).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (467).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (468).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (468).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (469).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (469).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (47).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (47).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (470).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (470).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (471).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (471).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (472).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (472).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (473).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (473).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (474).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (474).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (475).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (475).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (476).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (476).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (477).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (477).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (478).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (478).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (479).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (479).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (48).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (48).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (480).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (480).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (481).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (481).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (482).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (482).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (483).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (483).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (484).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (484).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (485).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (485).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (486).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (486).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (487).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (487).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (488).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (488).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (489).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (489).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (49).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (49).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (490).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (490).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (491).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (491).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (492).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (492).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (493).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (493).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (494).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (494).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (5).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (5).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (50).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (50).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (51).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (51).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (52).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (52).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (53).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (53).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (54).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (54).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (55).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (55).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (56).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (56).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (57).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (57).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (58).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (58).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (59).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (59).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (6).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (6).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (60).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (60).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (61).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (61).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (62).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (62).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (63).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (63).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (64).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (64).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (65).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (65).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (66).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (66).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (67).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (67).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (68).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (68).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (69).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (69).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (7).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (7).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (70).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (70).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (71).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (71).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (72).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (72).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (73).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (73).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (74).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (74).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (75).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (75).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (76).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (76).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (77).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (77).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (78).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (78).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (79).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (79).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (8).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (8).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (80).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (80).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (81).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (81).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (82).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (82).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (83).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (83).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (84).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (84).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (85).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (85).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (86).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (86).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (87).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (87).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (88).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (88).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (89).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (89).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (9).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (9).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (90).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (90).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (91).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (91).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (92).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (92).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (93).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (93).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (94).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (94).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (95).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (95).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (96).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (96).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (97).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (97).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (98).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (98).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurusuimg/kurusu (99).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/kurusuimg/kurusu (99).jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +509,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+            <state relative-caret-position="187">
+              <caret line="38" column="35" lean-forward="true" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -72,11 +566,6 @@
               <item name="LineBotForIdol" type="b2602c69:ProjectViewProjectNode" />
               <item name="LineBotForIdol" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LineBotForIdol" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LineBotForIdol" type="462c0819:PsiDirectoryNode" />
-              <item name="kurusuimg" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -87,6 +576,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yasug\PycharmProjects\LineBotForIdol\static" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -125,7 +619,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564749392968</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="img">
+      <created>1564749670487</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1564749670487</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -182,8 +683,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+        <state relative-caret-position="187">
+          <caret line="38" column="35" lean-forward="true" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
