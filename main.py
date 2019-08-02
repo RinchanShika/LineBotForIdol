@@ -1,8 +1,9 @@
 from flask import Flask, request, abort
 from linebot import LineBotApi, WebhookHandler
 from linebot.exceptions import InvalidSignatureError
-from linebot.models import MessageEvent, TextMessage, TextSendMessage
+from linebot.models import MessageEvent, TextMessage, TextSendMessage, ImageSendMessage
 import os
+import random
 
 app = Flask(__name__)
 
@@ -31,9 +32,15 @@ def callback():
 
 @handler.add(MessageEvent, message=TextMessage)
 def handle_message(event):
-    line_bot_api.reply_message(
-        event.reply_token,
-        TextSendMessage(text=event.message.text))
+    if event.message.text == '推しメン':
+        index = random.randint(1, 494)
+        img_url = 'https://kurusubot.herokuapp.com/kurusuimg/kurusu (' + str(index) + ').jpg'
+        line_bot_api.reply_message(
+            event.reply_token,
+            ImageSendMessage(
+                original_content_url=img_url,
+                preview_image_url=img_url
+            ))
 
 
 if __name__ == "__main__":
